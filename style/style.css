@@ -1,0 +1,26 @@
+
+.navImg{
+    width: 30px; height: 30px;
+}
+.navText{
+    padding: 1rem; color: white !important; font-family: system-ui; text-decoration: none;
+}
+.t2{
+    text-align: left; font-family: system-ui; margin: auto auto auto 5rem;
+}
+
+.hrS{
+    width: 100rem; text-align: center; margin: 1rem auto;
+}
+
+.Tcol1{
+    font-weight: bold; font-family: cursive;
+}
+
+.imgS{
+    width: 10rem; border-radius: 20px; margin: 1rem 3rem auto auto;
+}
+
+tr{
+    height: 3rem;
+}
